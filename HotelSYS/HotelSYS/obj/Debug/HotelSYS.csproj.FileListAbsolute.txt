@@ -1,0 +1,13 @@
+C:\HotelSYS\HotelSYS\bin\Debug\HotelSYS.exe.config
+C:\HotelSYS\HotelSYS\bin\Debug\HotelSYS.exe
+C:\HotelSYS\HotelSYS\bin\Debug\HotelSYS.pdb
+C:\HotelSYS\HotelSYS\obj\Debug\HotelSYS.csprojAssemblyReference.cache
+C:\HotelSYS\HotelSYS\obj\Debug\HotelSYS.frmMainMenu.resources
+C:\HotelSYS\HotelSYS\obj\Debug\HotelSYS.Properties.Resources.resources
+C:\HotelSYS\HotelSYS\obj\Debug\HotelSYS.csproj.GenerateResource.cache
+C:\HotelSYS\HotelSYS\obj\Debug\HotelSYS.csproj.CoreCompileInputs.cache
+C:\HotelSYS\HotelSYS\obj\Debug\HotelSYS.exe
+C:\HotelSYS\HotelSYS\obj\Debug\HotelSYS.pdb
+C:\HotelSYS\HotelSYS\obj\Debug\HotelSYS.frmAddRoomType.resources
+C:\HotelSYS\HotelSYS\obj\Debug\HotelSYS.frmDate.resources
+C:\HotelSYS\HotelSYS\obj\Debug\HotelSYS.frmDateTest.resources
